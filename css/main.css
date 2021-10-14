@@ -3,6 +3,10 @@
   fill: gold;
 }
 
+.face, .left-ear, .right-ear {
+  fill: gold;
+}
+
 .mouth {
   fill: none;
   stroke: #000;
@@ -28,5 +32,4 @@
 
 .smiley:hover .right-eyebrow {
   transform: rotate(80deg);
-
 }
