@@ -3,10 +3,6 @@
   fill: gold;
 }
 
-/* .face, .left-ear, .right-ear {
-  fill: gold; */
-}
-
 .mouth {
   fill: none;
   stroke: #000;
@@ -25,14 +21,6 @@
   transform-origin: 156px 82px;
   transition: all .5s linear;
 }
-
-/* .jaw {
-  transition: all .5s ease-in-out;
-}
-
-.smiley:hover .jaw {
-  transform: translateY(20px);
-} */
 
 .smiley:hover .left-eyebrow {
   transform: rotate(100deg);
